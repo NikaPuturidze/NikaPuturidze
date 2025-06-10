@@ -1,7 +1,7 @@
 
 # 👋 Hey, I'm Nika Puturidze
 
-I'm a detail-oriented front-stack engineer who enjoys building modern, scalable web applications and solving real-world problems through clean, efficient code. I care about writing maintainable software, improving user experience, and always learning something new. 
+I'm a detail-oriented front-end engineer who enjoys building modern, scalable web applications and solving real-world problems through clean, efficient code. I care about writing maintainable software, improving user experience, and always learning something new. 
 
 I genuinely love solving problems, I am a problem solver and use technologies as tools to do that job. I am also an enthusiast who thinks that you can to build whatever you want here - only imagination is the limit.
 
