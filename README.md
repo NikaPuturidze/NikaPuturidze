@@ -5,6 +5,8 @@ I'm a detail-oriented front-end engineer who enjoys building modern, scalable we
 
 I genuinely love solving problems, I am a problem solver and use technologies as tools to do that job. I am also an enthusiast who thinks that you can to build whatever you want here - only imagination is the limit.
 
+Currently, I’m studying React and Tailwind CSS, and planning to dive into Next.js soon.
+
 ## 🛠 Tech I Use
 - **Frontend:** Angular, TypeScript, JavaScript, SCSS
 - **Backend:** Node.js, Nest.js  
