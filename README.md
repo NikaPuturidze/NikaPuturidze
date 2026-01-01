@@ -8,7 +8,7 @@ I genuinely love solving problems, I am a problem solver and use technologies as
 Currently, I work as a junior frontend developer at [Upgaming](https://upgaming.com/)
 
 ## 🛠 Tech I Use
-- **Frontend:** Angular, React, Next.js, TypeScript, JavaScript, SCSS/CSS
+- **Frontend:** Angular, React, Next.js, TypeScript, JavaScript, SCSS/CSS, Tailwind
 - **Backend:** .NET, Node.js, Nest.js, Express.js, tRPC
 
 ## 🌐 Socials:
